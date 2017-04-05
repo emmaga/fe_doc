@@ -1,5 +1,5 @@
 远程分支：
-主分支 master dev上的版本发布时，推送到master分支上，并tag一个版本号yyyy-MM-dd hh:mm（emma操作）
+主分支 master，版本部署时，master merge dev分支，并tag一个版本号yyyy-MM-dd hh:mm（emma操作）
 team 开发分支 dev
 如果有共同开发某功能的需求建立feature-xx分支，合并到dev上之后删除该分支
 
