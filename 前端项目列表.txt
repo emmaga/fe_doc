@@ -1,0 +1,45 @@
+----- OpenVoD 项目- 业主使用的管理后台 -----
+项目地址 https://github.com/emmaga/openvod.git
+
+
+----- OpenVoD 项目- 清鹤项目配置管理后台 -----
+项目地址 https://github.com/emmaga/projsM-ov.git
+
+
+----- OpenVoD 项目- 清鹤项目的视频库管理后台 -----
+项目地址 https://github.com/emmaga/videos.git
+
+
+----- OpenVoD 项目- 清鹤项目的广告管理后台 -----
+项目地址 https://github.com/emmaga/openvod_ads.git
+
+
+----- OpenVoD 项目- 清鹤项目的升级管理后台 -----
+项目地址 https://github.com/emmaga/openvod-upgrade.git
+
+
+----- OpenVoD 项目- 清鹤项目的应用管理后台 -----
+项目地址 https://github.com/emmaga/openvod_apps.git
+
+
+----- OpenVoD 项目- 酒店公众号移动端界面 -----
+项目地址 https://github.com/emmaga/m-ov.git
+
+
+----- OpenVoD 项目- 电视机界面 - 三星电视机咖啡色界面 -----
+项目地址 https://github.com/emmaga/samsung_tv_interface.git
+
+
+----- OpenVoD 项目- 第一版给皇庭做的移动端  -----
+项目地址 https://github.com/emmaga/clear-hotel-mobile.git
+
+
+----- 信息发布项目- ims3.0 管理后台 -----
+项目地址 https://github.com/emmaga/ims3.0.git
+
+
+----- 西塘项目- 西塘人员使用的票务相关管理后台 -----
+项目地址 https://github.com/emmaga/xitang-ticket.git
+
+----- 清鹤海外网站项目 -----
+项目地址 https://github.com/emmaga/clear_overseas.git
